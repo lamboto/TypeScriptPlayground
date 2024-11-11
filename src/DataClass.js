@@ -1,4 +1,4 @@
-function solve() {
+function dataClass() {
     var Data = /** @class */ (function () {
         function Data(method, uri, version, message) {
             this.method = method;
@@ -13,4 +13,4 @@ function solve() {
     var data = new Data('GET', 'http://google.com', 'HTTP/1.1', '');
     console.log(data);
 }
-solve();
+dataClass;

@@ -1,4 +1,4 @@
-function solve() {
+function dataClass() {
 
     class Data {
         method: string;
@@ -23,4 +23,4 @@ function solve() {
     console.log(data);
 }
 
-solve();
+dataClass
