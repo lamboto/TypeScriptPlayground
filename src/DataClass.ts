@@ -22,5 +22,3 @@ function dataClass() {
 
     console.log(data);
 }
-
-dataClass
